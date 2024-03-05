@@ -1,0 +1,1502 @@
+[
+  {
+    "Country": "Andorra",
+    "Capital": "Andorra la Vella",
+    "Population": 84000,
+    "Area (Km2)": 468
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Capital": "Abu Dhabi",
+    "Population": 4975593,
+    "Area (Km2)": 82880
+  },
+  {
+    "Country": "Afghanistan",
+    "Capital": "Kabul",
+    "Population": 29121286,
+    "Area (Km2)": 647500
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Capital": "St. John's",
+    "Population": 86754,
+    "Area (Km2)": 443
+  },
+  {
+    "Country": "Anguilla",
+    "Capital": "The Valley",
+    "Population": 13254,
+    "Area (Km2)": 102
+  },
+  {
+    "Country": "Albania",
+    "Capital": "Tirana",
+    "Population": 2986952,
+    "Area (Km2)": 28748
+  },
+  {
+    "Country": "Armenia",
+    "Capital": "Yerevan",
+    "Population": 2968000,
+    "Area (Km2)": 29800
+  },
+  {
+    "Country": "Angola",
+    "Capital": "Luanda",
+    "Population": 13068161,
+    "Area (Km2)": 1246700
+  },
+  {
+    "Country": "Antarctica",
+    "Capital": "None",
+    "Population": 0,
+    "Area (Km2)": 14000000
+  },
+  {
+    "Country": "Argentina",
+    "Capital": "Buenos Aires",
+    "Population": 41343201,
+    "Area (Km2)": 2766890
+  },
+  {
+    "Country": "American Samoa",
+    "Capital": "Pago Pago",
+    "Population": 57881,
+    "Area (Km2)": 199
+  },
+  {
+    "Country": "Austria",
+    "Capital": "Vienna",
+    "Population": 8205000,
+    "Area (Km2)": 83858
+  },
+  {
+    "Country": "Australia",
+    "Capital": "Canberra",
+    "Population": 21515754,
+    "Area (Km2)": 7686850
+  },
+  {
+    "Country": "Aruba",
+    "Capital": "Oranjestad",
+    "Population": 71566,
+    "Area (Km2)": 193
+  },
+  {
+    "Country": "Åland",
+    "Capital": "Mariehamn",
+    "Population": 26711,
+    "Area (Km2)": 1580
+  },
+  {
+    "Country": "Azerbaijan",
+    "Capital": "Baku",
+    "Population": 8303512,
+    "Area (Km2)": 86600
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Capital": "Sarajevo",
+    "Population": 4590000,
+    "Area (Km2)": 51129
+  },
+  {
+    "Country": "Barbados",
+    "Capital": "Bridgetown",
+    "Population": 285653,
+    "Area (Km2)": 431
+  },
+  {
+    "Country": "Bangladesh",
+    "Capital": "Dhaka",
+    "Population": 156118464,
+    "Area (Km2)": 144000
+  },
+  {
+    "Country": "Belgium",
+    "Capital": "Brussels",
+    "Population": 10403000,
+    "Area (Km2)": 30510
+  },
+  {
+    "Country": "Burkina Faso",
+    "Capital": "Ouagadougou",
+    "Population": 16241811,
+    "Area (Km2)": 274200
+  },
+  {
+    "Country": "Bulgaria",
+    "Capital": "Sofia",
+    "Population": 7148785,
+    "Area (Km2)": 110910
+  },
+  {
+    "Country": "Bahrain",
+    "Capital": "Manama",
+    "Population": 738004,
+    "Area (Km2)": 665
+  },
+  {
+    "Country": "Burundi",
+    "Capital": "Bujumbura",
+    "Population": 9863117,
+    "Area (Km2)": 27830
+  },
+  {
+    "Country": "Benin",
+    "Capital": "Porto-Novo",
+    "Population": 9056010,
+    "Area (Km2)": 112620
+  },
+  {
+    "Country": "Saint Barthélemy",
+    "Capital": "Gustavia",
+    "Population": 8450,
+    "Area (Km2)": 21
+  },
+  {
+    "Country": "Bermuda",
+    "Capital": "Hamilton",
+    "Population": 65365,
+    "Area (Km2)": 53
+  },
+  {
+    "Country": "Brunei",
+    "Capital": "Bandar Seri Begawan",
+    "Population": 395027,
+    "Area (Km2)": 5770
+  },
+  {
+    "Country": "Bolivia",
+    "Capital": "Sucre",
+    "Population": 9947418,
+    "Area (Km2)": 1098580
+  },
+  {
+    "Country": "Bonaire",
+    "Capital": "Kralendijk",
+    "Population": 18012,
+    "Area (Km2)": 328
+  },
+  {
+    "Country": "Brazil",
+    "Capital": "Brasília",
+    "Population": 201103330,
+    "Area (Km2)": 8511965
+  },
+  {
+    "Country": "Bahamas",
+    "Capital": "Nassau",
+    "Population": 301790,
+    "Area (Km2)": 13940
+  },
+  {
+    "Country": "Bhutan",
+    "Capital": "Thimphu",
+    "Population": 699847,
+    "Area (Km2)": 47000
+  },
+  {
+    "Country": "Bouvet Island",
+    "Capital": "None",
+    "Population": 0,
+    "Area (Km2)": 49
+  },
+  {
+    "Country": "Botswana",
+    "Capital": "Gaborone",
+    "Population": 2029307,
+    "Area (Km2)": 600370
+  },
+  {
+    "Country": "Belarus",
+    "Capital": "Minsk",
+    "Population": 9685000,
+    "Area (Km2)": 207600
+  },
+  {
+    "Country": "Belize",
+    "Capital": "Belmopan",
+    "Population": 314522,
+    "Area (Km2)": 22966
+  },
+  {
+    "Country": "Canada",
+    "Capital": "Ottawa",
+    "Population": 33679000,
+    "Area (Km2)": 9984670
+  },
+  {
+    "Country": "Cocos [Keeling] Islands",
+    "Capital": "West Island",
+    "Population": 628,
+    "Area (Km2)": 14
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "Capital": "Kinshasa",
+    "Population": 70916439,
+    "Area (Km2)": 2345410
+  },
+  {
+    "Country": "Central African Republic",
+    "Capital": "Bangui",
+    "Population": 4844927,
+    "Area (Km2)": 622984
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Capital": "Brazzaville",
+    "Population": 3039126,
+    "Area (Km2)": 342000
+  },
+  {
+    "Country": "Switzerland",
+    "Capital": "Bern",
+    "Population": 7581000,
+    "Area (Km2)": 41290
+  },
+  {
+    "Country": "Ivory Coast",
+    "Capital": "Yamoussoukro",
+    "Population": 21058798,
+    "Area (Km2)": 322460
+  },
+  {
+    "Country": "Cook Islands",
+    "Capital": "Avarua",
+    "Population": 21388,
+    "Area (Km2)": 240
+  },
+  {
+    "Country": "Chile",
+    "Capital": "Santiago",
+    "Population": 16746491,
+    "Area (Km2)": 756950
+  },
+  {
+    "Country": "Cameroon",
+    "Capital": "Yaoundé",
+    "Population": 19294149,
+    "Area (Km2)": 475440
+  },
+  {
+    "Country": "China",
+    "Capital": "Beijing",
+    "Population": 1330044000,
+    "Area (Km2)": 9596960
+  },
+  {
+    "Country": "Colombia",
+    "Capital": "Bogotá",
+    "Population": 47790000,
+    "Area (Km2)": 1138910
+  },
+  {
+    "Country": "Costa Rica",
+    "Capital": "San José",
+    "Population": 4516220,
+    "Area (Km2)": 51100
+  },
+  {
+    "Country": "Cuba",
+    "Capital": "Havana",
+    "Population": 11423000,
+    "Area (Km2)": 110860
+  },
+  {
+    "Country": "Cape Verde",
+    "Capital": "Praia",
+    "Population": 508659,
+    "Area (Km2)": 4033
+  },
+  {
+    "Country": "Curacao",
+    "Capital": "Willemstad",
+    "Population": 141766,
+    "Area (Km2)": 444
+  },
+  {
+    "Country": "Christmas Island",
+    "Capital": "Flying Fish Cove",
+    "Population": 1500,
+    "Area (Km2)": 135
+  },
+  {
+    "Country": "Cyprus",
+    "Capital": "Nicosia",
+    "Population": 1102677,
+    "Area (Km2)": 9250
+  },
+  {
+    "Country": "Czech Republic",
+    "Capital": "Prague",
+    "Population": 10476000,
+    "Area (Km2)": 78866
+  },
+  {
+    "Country": "Germany",
+    "Capital": "Berlin",
+    "Population": 81802257,
+    "Area (Km2)": 357021
+  },
+  {
+    "Country": "Djibouti",
+    "Capital": "Djibouti",
+    "Population": 740528,
+    "Area (Km2)": 23000
+  },
+  {
+    "Country": "Denmark",
+    "Capital": "Copenhagen",
+    "Population": 5484000,
+    "Area (Km2)": 43094
+  },
+  {
+    "Country": "Dominica",
+    "Capital": "Roseau",
+    "Population": 72813,
+    "Area (Km2)": 754
+  },
+  {
+    "Country": "Dominican Republic",
+    "Capital": "Santo Domingo",
+    "Population": 9823821,
+    "Area (Km2)": 48730
+  },
+  {
+    "Country": "Algeria",
+    "Capital": "Algiers",
+    "Population": 34586184,
+    "Area (Km2)": 2381740
+  },
+  {
+    "Country": "Ecuador",
+    "Capital": "Quito",
+    "Population": 14790608,
+    "Area (Km2)": 283560
+  },
+  {
+    "Country": "Estonia",
+    "Capital": "Tallinn",
+    "Population": 1291170,
+    "Area (Km2)": 45226
+  },
+  {
+    "Country": "Egypt",
+    "Capital": "Cairo",
+    "Population": 80471869,
+    "Area (Km2)": 1001450
+  },
+  {
+    "Country": "Western Sahara",
+    "Capital": "Laâyoune / El Aaiún",
+    "Population": 273008,
+    "Area (Km2)": 266000
+  },
+  {
+    "Country": "Eritrea",
+    "Capital": "Asmara",
+    "Population": 5792984,
+    "Area (Km2)": 121320
+  },
+  {
+    "Country": "Spain",
+    "Capital": "Madrid",
+    "Population": 46505963,
+    "Area (Km2)": 504782
+  },
+  {
+    "Country": "Ethiopia",
+    "Capital": "Addis Ababa",
+    "Population": 88013491,
+    "Area (Km2)": 1127127
+  },
+  {
+    "Country": "Finland",
+    "Capital": "Helsinki",
+    "Population": 5244000,
+    "Area (Km2)": 337030
+  },
+  {
+    "Country": "Fiji",
+    "Capital": "Suva",
+    "Population": 875983,
+    "Area (Km2)": 18270
+  },
+  {
+    "Country": "Falkland Islands",
+    "Capital": "Stanley",
+    "Population": 2638,
+    "Area (Km2)": 12173
+  },
+  {
+    "Country": "Micronesia",
+    "Capital": "Palikir",
+    "Population": 107708,
+    "Area (Km2)": 702
+  },
+  {
+    "Country": "Faroe Islands",
+    "Capital": "Tórshavn",
+    "Population": 48228,
+    "Area (Km2)": 1399
+  },
+  {
+    "Country": "France",
+    "Capital": "Paris",
+    "Population": 64768389,
+    "Area (Km2)": 547030
+  },
+  {
+    "Country": "Gabon",
+    "Capital": "Libreville",
+    "Population": 1545255,
+    "Area (Km2)": 267667
+  },
+  {
+    "Country": "United Kingdom",
+    "Capital": "London",
+    "Population": 62348447,
+    "Area (Km2)": 244820
+  },
+  {
+    "Country": "Grenada",
+    "Capital": "St. George's",
+    "Population": 107818,
+    "Area (Km2)": 344
+  },
+  {
+    "Country": "Georgia",
+    "Capital": "Tbilisi",
+    "Population": 4630000,
+    "Area (Km2)": 69700
+  },
+  {
+    "Country": "French Guiana",
+    "Capital": "Cayenne",
+    "Population": 195506,
+    "Area (Km2)": 91000
+  },
+  {
+    "Country": "Guernsey",
+    "Capital": "St Peter Port",
+    "Population": 65228,
+    "Area (Km2)": 78
+  },
+  {
+    "Country": "Ghana",
+    "Capital": "Accra",
+    "Population": 24339838,
+    "Area (Km2)": 239460
+  },
+  {
+    "Country": "Gibraltar",
+    "Capital": "Gibraltar",
+    "Population": 27884,
+    "Area (Km2)": 6.5
+  },
+  {
+    "Country": "Greenland",
+    "Capital": "Nuuk",
+    "Population": 56375,
+    "Area (Km2)": 2166086
+  },
+  {
+    "Country": "Gambia",
+    "Capital": "Bathurst",
+    "Population": 1593256,
+    "Area (Km2)": 11300
+  },
+  {
+    "Country": "Guinea",
+    "Capital": "Conakry",
+    "Population": 10324025,
+    "Area (Km2)": 245857
+  },
+  {
+    "Country": "Guadeloupe",
+    "Capital": "Basse-Terre",
+    "Population": 443000,
+    "Area (Km2)": 1780
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Capital": "Malabo",
+    "Population": 1014999,
+    "Area (Km2)": 28051
+  },
+  {
+    "Country": "Greece",
+    "Capital": "Athens",
+    "Population": 11000000,
+    "Area (Km2)": 131940
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "Capital": "Grytviken",
+    "Population": 30,
+    "Area (Km2)": 3903
+  },
+  {
+    "Country": "Guatemala",
+    "Capital": "Guatemala City",
+    "Population": 13550440,
+    "Area (Km2)": 108890
+  },
+  {
+    "Country": "Guam",
+    "Capital": "Hagåtña",
+    "Population": 159358,
+    "Area (Km2)": 549
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Capital": "Bissau",
+    "Population": 1565126,
+    "Area (Km2)": 36120
+  },
+  {
+    "Country": "Guyana",
+    "Capital": "Georgetown",
+    "Population": 748486,
+    "Area (Km2)": 214970
+  },
+  {
+    "Country": "Hong Kong",
+    "Capital": "Hong Kong",
+    "Population": 6898686,
+    "Area (Km2)": 1092
+  },
+  {
+    "Country": "Heard Island and McDonald Islands",
+    "Capital": "None",
+    "Population": 0,
+    "Area (Km2)": 412
+  },
+  {
+    "Country": "Honduras",
+    "Capital": "Tegucigalpa",
+    "Population": 7989415,
+    "Area (Km2)": 112090
+  },
+  {
+    "Country": "Croatia",
+    "Capital": "Zagreb",
+    "Population": 4491000,
+    "Area (Km2)": 56542
+  },
+  {
+    "Country": "Haiti",
+    "Capital": "Port-au-Prince",
+    "Population": 9648924,
+    "Area (Km2)": 27750
+  },
+  {
+    "Country": "Hungary",
+    "Capital": "Budapest",
+    "Population": 9982000,
+    "Area (Km2)": 93030
+  },
+  {
+    "Country": "Indonesia",
+    "Capital": "Jakarta",
+    "Population": 242968342,
+    "Area (Km2)": 1919440
+  },
+  {
+    "Country": "Ireland",
+    "Capital": "Dublin",
+    "Population": 4622917,
+    "Area (Km2)": 70280
+  },
+  {
+    "Country": "Israel",
+    "Capital": "None",
+    "Population": 7353985,
+    "Area (Km2)": 20770
+  },
+  {
+    "Country": "Isle of Man",
+    "Capital": "Douglas",
+    "Population": 75049,
+    "Area (Km2)": 572
+  },
+  {
+    "Country": "India",
+    "Capital": "New Delhi",
+    "Population": 1173108018,
+    "Area (Km2)": 3287590
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "Capital": "None",
+    "Population": 4000,
+    "Area (Km2)": 60
+  },
+  {
+    "Country": "Iraq",
+    "Capital": "Baghdad",
+    "Population": 29671605,
+    "Area (Km2)": 437072
+  },
+  {
+    "Country": "Iran",
+    "Capital": "Tehran",
+    "Population": 76923300,
+    "Area (Km2)": 1648000
+  },
+  {
+    "Country": "Iceland",
+    "Capital": "Reykjavik",
+    "Population": 308910,
+    "Area (Km2)": 103000
+  },
+  {
+    "Country": "Italy",
+    "Capital": "Rome",
+    "Population": 60340328,
+    "Area (Km2)": 301230
+  },
+  {
+    "Country": "Jersey",
+    "Capital": "Saint Helier",
+    "Population": 90812,
+    "Area (Km2)": 116
+  },
+  {
+    "Country": "Jamaica",
+    "Capital": "Kingston",
+    "Population": 2847232,
+    "Area (Km2)": 10991
+  },
+  {
+    "Country": "Jordan",
+    "Capital": "Amman",
+    "Population": 6407085,
+    "Area (Km2)": 92300
+  },
+  {
+    "Country": "Japan",
+    "Capital": "Tokyo",
+    "Population": 127288000,
+    "Area (Km2)": 377835
+  },
+  {
+    "Country": "Kenya",
+    "Capital": "Nairobi",
+    "Population": 40046566,
+    "Area (Km2)": 582650
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Capital": "Bishkek",
+    "Population": 5776500,
+    "Area (Km2)": 198500
+  },
+  {
+    "Country": "Cambodia",
+    "Capital": "Phnom Penh",
+    "Population": 14453680,
+    "Area (Km2)": 181040
+  },
+  {
+    "Country": "Kiribati",
+    "Capital": "Tarawa",
+    "Population": 92533,
+    "Area (Km2)": 811
+  },
+  {
+    "Country": "Comoros",
+    "Capital": "Moroni",
+    "Population": 773407,
+    "Area (Km2)": 2170
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Capital": "Basseterre",
+    "Population": 51134,
+    "Area (Km2)": 261
+  },
+  {
+    "Country": "North Korea",
+    "Capital": "Pyongyang",
+    "Population": 22912177,
+    "Area (Km2)": 120540
+  },
+  {
+    "Country": "South Korea",
+    "Capital": "Seoul",
+    "Population": 48422644,
+    "Area (Km2)": 98480
+  },
+  {
+    "Country": "Kuwait",
+    "Capital": "Kuwait City",
+    "Population": 2789132,
+    "Area (Km2)": 17820
+  },
+  {
+    "Country": "Cayman Islands",
+    "Capital": "George Town",
+    "Population": 44270,
+    "Area (Km2)": 262
+  },
+  {
+    "Country": "Kazakhstan",
+    "Capital": "Astana",
+    "Population": 15340000,
+    "Area (Km2)": 2717300
+  },
+  {
+    "Country": "Laos",
+    "Capital": "Vientiane",
+    "Population": 6368162,
+    "Area (Km2)": 236800
+  },
+  {
+    "Country": "Lebanon",
+    "Capital": "Beirut",
+    "Population": 4125247,
+    "Area (Km2)": 10400
+  },
+  {
+    "Country": "Saint Lucia",
+    "Capital": "Castries",
+    "Population": 160922,
+    "Area (Km2)": 616
+  },
+  {
+    "Country": "Liechtenstein",
+    "Capital": "Vaduz",
+    "Population": 35000,
+    "Area (Km2)": 160
+  },
+  {
+    "Country": "Sri Lanka",
+    "Capital": "Colombo",
+    "Population": 21513990,
+    "Area (Km2)": 65610
+  },
+  {
+    "Country": "Liberia",
+    "Capital": "Monrovia",
+    "Population": 3685076,
+    "Area (Km2)": 111370
+  },
+  {
+    "Country": "Lesotho",
+    "Capital": "Maseru",
+    "Population": 1919552,
+    "Area (Km2)": 30355
+  },
+  {
+    "Country": "Lithuania",
+    "Capital": "Vilnius",
+    "Population": 2944459,
+    "Area (Km2)": 65200
+  },
+  {
+    "Country": "Luxembourg",
+    "Capital": "Luxembourg",
+    "Population": 497538,
+    "Area (Km2)": 2586
+  },
+  {
+    "Country": "Latvia",
+    "Capital": "Riga",
+    "Population": 2217969,
+    "Area (Km2)": 64589
+  },
+  {
+    "Country": "Libya",
+    "Capital": "Tripoli",
+    "Population": 6461454,
+    "Area (Km2)": 1759540
+  },
+  {
+    "Country": "Morocco",
+    "Capital": "Rabat",
+    "Population": 31627428,
+    "Area (Km2)": 446550
+  },
+  {
+    "Country": "Monaco",
+    "Capital": "Monaco",
+    "Population": 32965,
+    "Area (Km2)": 1.95
+  },
+  {
+    "Country": "Moldova",
+    "Capital": "Chişinău",
+    "Population": 4324000,
+    "Area (Km2)": 33843
+  },
+  {
+    "Country": "Montenegro",
+    "Capital": "Podgorica",
+    "Population": 666730,
+    "Area (Km2)": 14026
+  },
+  {
+    "Country": "Saint Martin",
+    "Capital": "Marigot",
+    "Population": 35925,
+    "Area (Km2)": 53
+  },
+  {
+    "Country": "Madagascar",
+    "Capital": "Antananarivo",
+    "Population": 21281844,
+    "Area (Km2)": 587040
+  },
+  {
+    "Country": "Marshall Islands",
+    "Capital": "Majuro",
+    "Population": 65859,
+    "Area (Km2)": 181.3
+  },
+  {
+    "Country": "Macedonia",
+    "Capital": "Skopje",
+    "Population": 2062294,
+    "Area (Km2)": 25333
+  },
+  {
+    "Country": "Mali",
+    "Capital": "Bamako",
+    "Population": 13796354,
+    "Area (Km2)": 1240000
+  },
+  {
+    "Country": "Myanmar [Burma]",
+    "Capital": "Naypyitaw",
+    "Population": 53414374,
+    "Area (Km2)": 678500
+  },
+  {
+    "Country": "Mongolia",
+    "Capital": "Ulan Bator",
+    "Population": 3086918,
+    "Area (Km2)": 1565000
+  },
+  {
+    "Country": "Macao",
+    "Capital": "Macao",
+    "Population": 449198,
+    "Area (Km2)": 254
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Capital": "Saipan",
+    "Population": 53883,
+    "Area (Km2)": 477
+  },
+  {
+    "Country": "Martinique",
+    "Capital": "Fort-de-France",
+    "Population": 432900,
+    "Area (Km2)": 1100
+  },
+  {
+    "Country": "Mauritania",
+    "Capital": "Nouakchott",
+    "Population": 3205060,
+    "Area (Km2)": 1030700
+  },
+  {
+    "Country": "Montserrat",
+    "Capital": "Plymouth",
+    "Population": 9341,
+    "Area (Km2)": 102
+  },
+  {
+    "Country": "Malta",
+    "Capital": "Valletta",
+    "Population": 403000,
+    "Area (Km2)": 316
+  },
+  {
+    "Country": "Mauritius",
+    "Capital": "Port Louis",
+    "Population": 1294104,
+    "Area (Km2)": 2040
+  },
+  {
+    "Country": "Maldives",
+    "Capital": "Malé",
+    "Population": 395650,
+    "Area (Km2)": 300
+  },
+  {
+    "Country": "Malawi",
+    "Capital": "Lilongwe",
+    "Population": 15447500,
+    "Area (Km2)": 118480
+  },
+  {
+    "Country": "Mexico",
+    "Capital": "Mexico City",
+    "Population": 112468855,
+    "Area (Km2)": 1972550
+  },
+  {
+    "Country": "Malaysia",
+    "Capital": "Kuala Lumpur",
+    "Population": 28274729,
+    "Area (Km2)": 329750
+  },
+  {
+    "Country": "Mozambique",
+    "Capital": "Maputo",
+    "Population": 22061451,
+    "Area (Km2)": 801590
+  },
+  {
+    "Country": "Namibia",
+    "Capital": "Windhoek",
+    "Population": 2128471,
+    "Area (Km2)": 825418
+  },
+  {
+    "Country": "New Caledonia",
+    "Capital": "Noumea",
+    "Population": 216494,
+    "Area (Km2)": 19060
+  },
+  {
+    "Country": "Niger",
+    "Capital": "Niamey",
+    "Population": 15878271,
+    "Area (Km2)": 1267000
+  },
+  {
+    "Country": "Norfolk Island",
+    "Capital": "Kingston",
+    "Population": 1828,
+    "Area (Km2)": 34.6
+  },
+  {
+    "Country": "Nigeria",
+    "Capital": "Abuja",
+    "Population": 154000000,
+    "Area (Km2)": 923768
+  },
+  {
+    "Country": "Nicaragua",
+    "Capital": "Managua",
+    "Population": 5995928,
+    "Area (Km2)": 129494
+  },
+  {
+    "Country": "Netherlands",
+    "Capital": "Amsterdam",
+    "Population": 16645000,
+    "Area (Km2)": 41526
+  },
+  {
+    "Country": "Norway",
+    "Capital": "Oslo",
+    "Population": 5009150,
+    "Area (Km2)": 324220
+  },
+  {
+    "Country": "Nepal",
+    "Capital": "Kathmandu",
+    "Population": 28951852,
+    "Area (Km2)": 140800
+  },
+  {
+    "Country": "Nauru",
+    "Capital": "Yaren",
+    "Population": 10065,
+    "Area (Km2)": 21
+  },
+  {
+    "Country": "Niue",
+    "Capital": "Alofi",
+    "Population": 2166,
+    "Area (Km2)": 260
+  },
+  {
+    "Country": "New Zealand",
+    "Capital": "Wellington",
+    "Population": 4252277,
+    "Area (Km2)": 268680
+  },
+  {
+    "Country": "Oman",
+    "Capital": "Muscat",
+    "Population": 2967717,
+    "Area (Km2)": 212460
+  },
+  {
+    "Country": "Panama",
+    "Capital": "Panama City",
+    "Population": 3410676,
+    "Area (Km2)": 78200
+  },
+  {
+    "Country": "Peru",
+    "Capital": "Lima",
+    "Population": 29907003,
+    "Area (Km2)": 1285220
+  },
+  {
+    "Country": "French Polynesia",
+    "Capital": "Papeete",
+    "Population": 270485,
+    "Area (Km2)": 4167
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Capital": "Port Moresby",
+    "Population": 6064515,
+    "Area (Km2)": 462840
+  },
+  {
+    "Country": "Philippines",
+    "Capital": "Manila",
+    "Population": 99900177,
+    "Area (Km2)": 300000
+  },
+  {
+    "Country": "Pakistan",
+    "Capital": "Islamabad",
+    "Population": 184404791,
+    "Area (Km2)": 803940
+  },
+  {
+    "Country": "Poland",
+    "Capital": "Warsaw",
+    "Population": 38500000,
+    "Area (Km2)": 312685
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "Capital": "Saint-Pierre",
+    "Population": 7012,
+    "Area (Km2)": 242
+  },
+  {
+    "Country": "Pitcairn Islands",
+    "Capital": "Adamstown",
+    "Population": 46,
+    "Area (Km2)": 47
+  },
+  {
+    "Country": "Puerto Rico",
+    "Capital": "San Juan",
+    "Population": 3916632,
+    "Area (Km2)": 9104
+  },
+  {
+    "Country": "Palestine",
+    "Capital": "None",
+    "Population": 3800000,
+    "Area (Km2)": 5970
+  },
+  {
+    "Country": "Portugal",
+    "Capital": "Lisbon",
+    "Population": 10676000,
+    "Area (Km2)": 92391
+  },
+  {
+    "Country": "Palau",
+    "Capital": "Melekeok",
+    "Population": 19907,
+    "Area (Km2)": 458
+  },
+  {
+    "Country": "Paraguay",
+    "Capital": "Asunción",
+    "Population": 6375830,
+    "Area (Km2)": 406750
+  },
+  {
+    "Country": "Qatar",
+    "Capital": "Doha",
+    "Population": 840926,
+    "Area (Km2)": 11437
+  },
+  {
+    "Country": "Réunion",
+    "Capital": "Saint-Denis",
+    "Population": 776948,
+    "Area (Km2)": 2517
+  },
+  {
+    "Country": "Romania",
+    "Capital": "Bucharest",
+    "Population": 21959278,
+    "Area (Km2)": 237500
+  },
+  {
+    "Country": "Serbia",
+    "Capital": "Belgrade",
+    "Population": 7344847,
+    "Area (Km2)": 88361
+  },
+  {
+    "Country": "Russia",
+    "Capital": "Moscow",
+    "Population": 140702000,
+    "Area (Km2)": 17100000
+  },
+  {
+    "Country": "Rwanda",
+    "Capital": "Kigali",
+    "Population": 11055976,
+    "Area (Km2)": 26338
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Capital": "Riyadh",
+    "Population": 25731776,
+    "Area (Km2)": 1960582
+  },
+  {
+    "Country": "Solomon Islands",
+    "Capital": "Honiara",
+    "Population": 559198,
+    "Area (Km2)": 28450
+  },
+  {
+    "Country": "Seychelles",
+    "Capital": "Victoria",
+    "Population": 88340,
+    "Area (Km2)": 455
+  },
+  {
+    "Country": "Sudan",
+    "Capital": "Khartoum",
+    "Population": 35000000,
+    "Area (Km2)": 1861484
+  },
+  {
+    "Country": "Sweden",
+    "Capital": "Stockholm",
+    "Population": 9828655,
+    "Area (Km2)": 449964
+  },
+  {
+    "Country": "Singapore",
+    "Capital": "Singapore",
+    "Population": 4701069,
+    "Area (Km2)": 692.7
+  },
+  {
+    "Country": "Saint Helena",
+    "Capital": "Jamestown",
+    "Population": 7460,
+    "Area (Km2)": 410
+  },
+  {
+    "Country": "Slovenia",
+    "Capital": "Ljubljana",
+    "Population": 2007000,
+    "Area (Km2)": 20273
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "Capital": "Longyearbyen",
+    "Population": 2550,
+    "Area (Km2)": 62049
+  },
+  {
+    "Country": "Slovakia",
+    "Capital": "Bratislava",
+    "Population": 5455000,
+    "Area (Km2)": 48845
+  },
+  {
+    "Country": "Sierra Leone",
+    "Capital": "Freetown",
+    "Population": 5245695,
+    "Area (Km2)": 71740
+  },
+  {
+    "Country": "San Marino",
+    "Capital": "San Marino",
+    "Population": 31477,
+    "Area (Km2)": 61.2
+  },
+  {
+    "Country": "Senegal",
+    "Capital": "Dakar",
+    "Population": 12323252,
+    "Area (Km2)": 196190
+  },
+  {
+    "Country": "Somalia",
+    "Capital": "Mogadishu",
+    "Population": 10112453,
+    "Area (Km2)": 637657
+  },
+  {
+    "Country": "Suriname",
+    "Capital": "Paramaribo",
+    "Population": 492829,
+    "Area (Km2)": 163270
+  },
+  {
+    "Country": "South Sudan",
+    "Capital": "Juba",
+    "Population": 8260490,
+    "Area (Km2)": 644329
+  },
+  {
+    "Country": "São Tomé and Príncipe",
+    "Capital": "São Tomé",
+    "Population": 175808,
+    "Area (Km2)": 1001
+  },
+  {
+    "Country": "El Salvador",
+    "Capital": "San Salvador",
+    "Population": 6052064,
+    "Area (Km2)": 21040
+  },
+  {
+    "Country": "Sint Maarten",
+    "Capital": "Philipsburg",
+    "Population": 37429,
+    "Area (Km2)": 21
+  },
+  {
+    "Country": "Syria",
+    "Capital": "Damascus",
+    "Population": 22198110,
+    "Area (Km2)": 185180
+  },
+  {
+    "Country": "Swaziland",
+    "Capital": "Mbabane",
+    "Population": 1354051,
+    "Area (Km2)": 17363
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Capital": "Cockburn Town",
+    "Population": 20556,
+    "Area (Km2)": 430
+  },
+  {
+    "Country": "Chad",
+    "Capital": "N'Djamena",
+    "Population": 10543464,
+    "Area (Km2)": 1284000
+  },
+  {
+    "Country": "French Southern Territories",
+    "Capital": "Port-aux-Français",
+    "Population": 140,
+    "Area (Km2)": 7829
+  },
+  {
+    "Country": "Togo",
+    "Capital": "Lomé",
+    "Population": 6587239,
+    "Area (Km2)": 56785
+  },
+  {
+    "Country": "Thailand",
+    "Capital": "Bangkok",
+    "Population": 67089500,
+    "Area (Km2)": 514000
+  },
+  {
+    "Country": "Tajikistan",
+    "Capital": "Dushanbe",
+    "Population": 7487489,
+    "Area (Km2)": 143100
+  },
+  {
+    "Country": "Tokelau",
+    "Capital": "None",
+    "Population": 1466,
+    "Area (Km2)": 10
+  },
+  {
+    "Country": "East Timor",
+    "Capital": "Dili",
+    "Population": 1154625,
+    "Area (Km2)": 15007
+  },
+  {
+    "Country": "Turkmenistan",
+    "Capital": "Ashgabat",
+    "Population": 4940916,
+    "Area (Km2)": 488100
+  },
+  {
+    "Country": "Tunisia",
+    "Capital": "Tunis",
+    "Population": 10589025,
+    "Area (Km2)": 163610
+  },
+  {
+    "Country": "Tonga",
+    "Capital": "Nuku'alofa",
+    "Population": 122580,
+    "Area (Km2)": 748
+  },
+  {
+    "Country": "Turkey",
+    "Capital": "Ankara",
+    "Population": 77804122,
+    "Area (Km2)": 780580
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Capital": "Port of Spain",
+    "Population": 1228691,
+    "Area (Km2)": 5128
+  },
+  {
+    "Country": "Tuvalu",
+    "Capital": "Funafuti",
+    "Population": 10472,
+    "Area (Km2)": 26
+  },
+  {
+    "Country": "Taiwan",
+    "Capital": "Taipei",
+    "Population": 22894384,
+    "Area (Km2)": 35980
+  },
+  {
+    "Country": "Tanzania",
+    "Capital": "Dodoma",
+    "Population": 41892895,
+    "Area (Km2)": 945087
+  },
+  {
+    "Country": "Ukraine",
+    "Capital": "Kiev",
+    "Population": 45415596,
+    "Area (Km2)": 603700
+  },
+  {
+    "Country": "Uganda",
+    "Capital": "Kampala",
+    "Population": 33398682,
+    "Area (Km2)": 236040
+  },
+  {
+    "Country": "U.S. Minor Outlying Islands",
+    "Capital": "None",
+    "Population": 0,
+    "Area (Km2)": 0
+  },
+  {
+    "Country": "United States",
+    "Capital": "Washington",
+    "Population": 310232863,
+    "Area (Km2)": 9629091
+  },
+  {
+    "Country": "Uruguay",
+    "Capital": "Montevideo",
+    "Population": 3477000,
+    "Area (Km2)": 176220
+  },
+  {
+    "Country": "Uzbekistan",
+    "Capital": "Tashkent",
+    "Population": 27865738,
+    "Area (Km2)": 447400
+  },
+  {
+    "Country": "Vatican City",
+    "Capital": "Vatican City",
+    "Population": 921,
+    "Area (Km2)": 0.44
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Capital": "Kingstown",
+    "Population": 104217,
+    "Area (Km2)": 389
+  },
+  {
+    "Country": "Venezuela",
+    "Capital": "Caracas",
+    "Population": 27223228,
+    "Area (Km2)": 912050
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Capital": "Road Town",
+    "Population": 21730,
+    "Area (Km2)": 153
+  },
+  {
+    "Country": "U.S. Virgin Islands",
+    "Capital": "Charlotte Amalie",
+    "Population": 108708,
+    "Area (Km2)": 352
+  },
+  {
+    "Country": "Vietnam",
+    "Capital": "Hanoi",
+    "Population": 89571130,
+    "Area (Km2)": 329560
+  },
+  {
+    "Country": "Vanuatu",
+    "Capital": "Port Vila",
+    "Population": 221552,
+    "Area (Km2)": 12200
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "Capital": "Mata-Utu",
+    "Population": 16025,
+    "Area (Km2)": 274
+  },
+  {
+    "Country": "Samoa",
+    "Capital": "Apia",
+    "Population": 192001,
+    "Area (Km2)": 2944
+  },
+  {
+    "Country": "Kosovo",
+    "Capital": "Pristina",
+    "Population": 1800000,
+    "Area (Km2)": 10908
+  },
+  {
+    "Country": "Yemen",
+    "Capital": "Sanaa",
+    "Population": 23495361,
+    "Area (Km2)": 527970
+  },
+  {
+    "Country": "Mayotte",
+    "Capital": "Mamoudzou",
+    "Population": 159042,
+    "Area (Km2)": 374
+  },
+  {
+    "Country": "South Africa",
+    "Capital": "Pretoria",
+    "Population": 49000000,
+    "Area (Km2)": 1219912
+  },
+  {
+    "Country": "Zambia",
+    "Capital": "Lusaka",
+    "Population": 13460305,
+    "Area (Km2)": 752614
+  },
+  {
+    "Country": "Zimbabwe",
+    "Capital": "Harare",
+    "Population": 11651858,
+    "Area (Km2)": 390580
+  }
+]
